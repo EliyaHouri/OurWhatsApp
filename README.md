@@ -12,8 +12,8 @@ Follow these instructions to set up the project on your local machine:
 3. Ensure you have mongodb installed.
 4. Enter the following commands in your terminal:
 <pre>
-git clone https://github.com/yonikal56/our-whatsapp-3
-cd our-whatsapp-3
+git clone https://github.com/EliyaHouri/OurWhatsApp
+cd OurWhatsApp
 </pre>
 
 ### Run Server
