@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#F1E5E5</color>
+    <color name="hintColor">#CDC8C8</color>
+    <color name="boxBackground">#7A7777</color>
+    <color name="getMessage">#E8464A47</color>
+    <color name="sendMessage">#E8747E76</color>
+</resources>

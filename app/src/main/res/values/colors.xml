@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#FF000000</color>
+    <color name="btn">#534A4A</color>
+    <color name="hintColor">#656262</color>
+    <color name="boxBackground">#FFFFFFFF</color>
+    <color name="getMessage">#E8B2BAB3</color>
+    <color name="sendMessage">#E8747E76</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

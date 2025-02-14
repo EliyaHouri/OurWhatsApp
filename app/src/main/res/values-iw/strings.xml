@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="loginBtn">התחבר</string>
+        <string name="username_tag">שם משתמש:</string>
+        <string name="password_tag">סיסמה:</string>
+        <string name="password_hint">הכנס סיסמה</string>
+        <string name="username_hint">הכנס שם משתמש</string>
+        <string name="login_title">ברוך השב</string>
+        <string name="click_here_link"><u>לחץ כאן</u></string>
+        <string name="not_registered">לא רשום?</string>
+        <string name="to_register">להרשמה</string>
+        <string name="register_title">ברוך הבא</string>
+        <string name="display_name_tag">שם תצוגה:</string>
+        <string name="display_name_hint">הכנס שם</string>
+        <string name="confirm_password_tag">אימות סיסמה:</string>
+        <string name="confirm_password_hint">חזור על הסיסמה</string>
+        <string name="upload_photo_btn">העלה תמונת פרופיל כאן</string>
+        <string name="registerBtn">הרשמה</string>
+        <string name="already_registered">כבר רשום?</string>
+        <string name="to_login">להתחברות</string>
+        <string name="profile_picture">תמונת פרופיל</string>
+        <string name="enter_your_message_here">הקלד הודעה כאן..</string>
+        <string name="dummy_msg">זו היא הודעה</string>
+        <string name="search_or_create_a_new_chat">חפש או צור צ\'אט חדש</string>
+        <string name="user_name">שם משתמש</string>
+        <string name="new_message">הודעה חדשה</string>
+        <string name="add_new_chat">חבר חדש לרשימה?\nבוא נוסיף אותו</string>
+        <string name="cancelBtn">ביטול</string>
+        <string name="confirmBtn">אישור</string>
+        <string name="logoutBtn">התנתקות</string>
+        <string name="current_username">שם משתמש נוכחי</string>
+        <string name="current_display_name">שם תצוגה נוכחי</string>
+        <string name="server_port">פורט השרת:</string>
+        <string name="new_server_port">פורט נוכחי</string>
+        <string name="current_password">סיסמה נוכחית</string>
+        <string name="settings">הגדרות</string>
+        <string name="update_photo_btn">החלפת\nתמונת פרופיל</string>
+        <string name="language">שפה:</string>
+        <string name="theme">ערכת נושא:</string>
+        <string-array name="language_options">
+                <item>אנגלית</item>
+                <item>עברית</item>
+        </string-array>
+        <string-array name="theme_options">
+                <item>קלאסי</item>
+                <item>כהה</item>
+        </string-array>
+        <string name="login_to_see_more_options">התחבר כדי לראות אפשרויות נוספות</string>
+</resources>
