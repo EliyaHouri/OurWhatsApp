@@ -1,5 +1,7 @@
 # OurWhatsApp
 
+This project is a project I made with yonikal56 and YuvalDahari during a semester in our BSC.
+
 OurWhatsApp is an intuitive messaging web & android application that facilitates real-time communication between users. The application showcases a sleek, modern interface equipped with user registration, authentication and messaging features.
 The project includes both clients and server (Node.JS application). Each one of them can run seperately to allow using with different application for the second end.
 
